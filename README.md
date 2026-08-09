@@ -108,10 +108,10 @@ I've stopped trying to make that resolve into one job title. What connects it is
 
 <div align="center">
 
-![Mehrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehradMi&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehradMi&layout=compact&theme=midnight-purple&hide_border=true)
+![Mehrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=unyxed&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unyxed&layout=compact&theme=midnight-purple&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MehradMi&theme=midnight-purple&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unyxed&theme=midnight-purple&hide_border=true)
 
 </div>
 
