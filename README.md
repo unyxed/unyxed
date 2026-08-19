@@ -29,9 +29,9 @@
 ```
       ___________
      /          /|
-    /__________/ |        > walking the old path...
-    |  ______  | |        > the roads through my mind are on fire
-    | |  o   | | |        > want to be all things
+    /__________/ |        > booting unyxed...
+    |  ______  | |        > booting finished successfully
+    | |  o   | | |        > welcome back: unyxed!
     | |______| |/
     |__________|
 ```
@@ -40,33 +40,7 @@
 
 I'm a final-year CS student shipping gameplay systems for a Roblox studio, building an indie game **entirely from scratch in Odin** with no engine doing the thinking for me, and also deeply learning ML Systems and AI Engineering.
 
-I've stopped trying to make that resolve into one job title. What connects it isn't a category — it's a way of working. I like taking something apart until I understand every layer, then building it back up myself: a renderer, a physics step, an inference pipeline, a machine learning model, doesn't matter. I'm 22, I'm junior, I don't have years of production experience — what I have is the discipline and insane burning drive within my soul to learn and build complex systems, be it low-level graphics or a complicated ML system pipeline, etc.
-
-```
-   .-.        .-.        .-.        .-.
-  (   )------(   )------(   )------(   )
-   '-'        '-'        '-'        '-'
-     \        /  \        /  \        /
-      \      /    \      /    \      /
-       game        graphics       AI/ML
-          \          |          /
-           \_________|_________/
-                     |
-                 same builder
-```
-
----
-
-## What I'm building & learning right now
-
-| Track | Focus | Status |
-|---|---|---|
-| Solo indie game | Odin, built from scratch, minimal libraries, low-level control | 🔵 In progress |
-| Graphics programming | LearnOpenGL, TinyRenderer, software rendering fundamentals | 🟢 Ongoing, long-term |
-| AI Engineering | FastAPI backends, LLM-backed systems, prompt/context engineering | 🔵 In progress |
-| Math & Classical ML | Linear algebra, calculus, probability, scikit-learn | 🔵 In progress |
-| Deep Learning | PyTorch, neural nets from scratch | ⚪ Up next |
-| Game dev (Roblox) | Ship combat systems, client-server physics, live production | 🟢 Day job |
+I've stopped trying to make that resolve into one job title. What connects it isn't a category — it's a way of working. I like taking something apart until I understand every layer, then building it back up myself: a renderer, a physics step, an inference pipeline, a machine learning model, doesn't matter. I'm 22, I'm junior, I don't have years of production experience — what I have is the discipline and insane burning drive within my soul to learn and build complex systems, be it low-level systems , graphics or a complicated ML system pipeline, etc.
 
 ---
 
