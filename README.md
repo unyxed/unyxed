@@ -30,7 +30,7 @@
       ___________
      /          /|
     /__________/ |        > booting unyxed...
-    |  ______  | |        > booting finished successfully
+    |  ______  | |        > booting operation finished successfully
     | |  o   | | |        > welcome back: unyxed!
     | |______| |/
     |__________|
@@ -90,19 +90,3 @@ I've stopped trying to make that resolve into one job title. What connects it is
 </div>
 
 ---
-
-<div align="center">
-
-```
-         ▲
-        ▲▲▲
-       ▲▲▲▲▲          I cannot stop, I want to be all things
-      ▲▲▲▲▲▲▲         I've got to let go, I want to be all things
-     ▲▲▲▲▲▲▲▲▲
-    ▲▲▲▲▲▲▲▲▲▲▲              — Be All Things
-   ═══════════════
-```
-
-If an opportunity in AI Engineering, ML Systems, or Game/Graphics Programming exists — I'd love to talk.
-
-</div>
