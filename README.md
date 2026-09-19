@@ -40,7 +40,7 @@
 
 I'm a final-year CS student shipping gameplay systems for a Roblox Studio.
 
-I've stopped trying to make that resolve into one job title. What connects it isn't a category — it's a way of working. I like taking something apart until I understand every layer, then building it back up myself: a renderer, a physics step, an inference pipeline, a machine learning model, doesn't matter. I'm 22, I'm junior, I don't have years of production experience — what I have is the discipline and insane burning drive within my soul to learn and build complex systems, be it low-level systems , graphics or a complicated ML system pipeline, etc.
+I like taking something apart until I understand every layer, then building it back up myself: a renderer, a physics step, an inference pipeline, a machine learning model, doesn't matter I've stopped trying to make that resolve into one job title. What connects it isn't a category — it's my way of working. I'm 22, I'm junior, I don't have years of production experience — what I have is the discipline and insane burning drive to learn and build complex systems, be it low-level systems, graphics programming, game design or a complicated ML system pipeline, etc.
 
 ---
 
