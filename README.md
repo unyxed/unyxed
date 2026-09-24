@@ -68,17 +68,3 @@ I like taking something apart until I understand every layer, then building it b
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-## GitHub activity
-
-<div align="center">
-
-![Mehrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=unyxed&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unyxed&layout=compact&theme=midnight-purple&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unyxed&theme=midnight-purple&hide_border=true)
-
-</div>
-
----
