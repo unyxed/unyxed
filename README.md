@@ -30,26 +30,36 @@
 ---
 
 ```
-      ___________
-     /          /|
-    /__________/ |        > booting unyxed...
-    |  ______  | |        > booting operation finished successfully
-    | |  o   | | |        > welcome back: unyxed!
-    | |______| |/
-    |__________|
+                                                  .--------.
+                                                  |::::::::|
+.----. .-----------------------------------------------------------------.
+|    | | o                                                             o |
+| [] | |              _.-"""""-._               _.-"""""-._              |
+|    | |            .'  \  |  /  '.           .'  \  |  /  '.            |
+|    | |           /  \  \ | /  /  \         /  \  \ | /  /  \           |
+| [] | |          |  ---  \|/  ---  |       |  ---  \|/  ---  |          |    > booting unyxed...
+|    | |          |  ----( @ )----  |       |  ----( @ )----  |          |    > booting operation finished successfully
+|    | |          |  ---  /|\  ---  |       |  ---  /|\  ---  |          |    > welcome back: unyxed!
+| [] | |           \  /  / | \  \  /         \  /  / | \  \  /           |
+|    | |            '.  /  |  \  .'           '.  /  |  \  .'            |
+|    | |              '-._____.-'               '-._____.-'              |
+|    | |                                                                 |
+|    | | o                         [ UNYXED ]                          o |
+'----' '-----------------------------------------------------------------'
+            |:|:|:|:|:|:|:|:|:|:|:|:|:|   |:|:|:|:|:|:|:|:|:|:|:|:|:|
+            |:|:|:|:|:|:|:|:|:|:|:|:|:|   |:|:|:|:|:|:|:|:|:|:|:|:|:|
+            '-------------------------'   '-------------------------'
 ```
 
 ## About
 
-I'm a final-year CS student and software/systems engineer, shipping gameplay systems and performance work for multiplayer games on Roblox and Meta Horizon.
+I'm a final-year CS student and software/systems engineer. By day I ship gameplay systems and performance work for multiplayer games on Roblox and Meta Horizon.
 
-I like taking something apart until I understand every layer, then building it back up myself: a renderer, a physics step, an inference pipeline, a machine learning model. What connects it isn't a category, it's my way of working: the discipline and a burning drive to learn and build complex systems, whether that's low-level systems, graphics programming, game design, or an ML pipeline.
+Recently, I've developed a keen interest in GPUs: how they're built, how they schedule work, and how to keep thousands of threads busy instead of waiting on memory. I'm actively learning CUDA and massively parallel systems programming, the part of computing where performance stops being a detail and becomes the whole design.
 
-<div align="center">
+I like taking something apart until I understand every layer, then building it back from scratch. It started with a software renderer in C++ and it's heading toward the silicon.
 
-<img src="owl.png" width="420" alt="Halftone sculpture of an owl on a branch">
-
-</div>
+**Currently:** GPU architecture · CUDA · parallel programming models · performance engineering
 
 ---
 
