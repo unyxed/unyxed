@@ -47,7 +47,7 @@ I like taking something apart until I understand every layer, then building it b
 
 <div align="center">
 
-<img src="assets/owl.png" width="420" alt="Halftone sculpture of an owl on a branch">
+<img src="owl.png" width="420" alt="Halftone sculpture of an owl on a branch">
 
 </div>
 
